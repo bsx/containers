@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM debian:buster-slim
 LABEL maintainer="bsx <bsx+docker@0xcafec0.de>"
 
 ENV DEBIAN_FRONTEND=noninteractive LC_ALL=C
