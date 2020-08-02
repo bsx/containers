@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:bullseye-slim
 LABEL maintainer="bsx <bsx+docker@0xcafec0.de>"
 
 ENV DEBIAN_FRONTEND=noninteractive LC_ALL=C
